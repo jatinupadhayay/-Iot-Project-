@@ -1,9 +1,12 @@
 # -Iot-Project-
 An IoT-based smart dustbin using ESP32, ultrasonic sensor, and Blynk. It monitors the fill level in real-time, sends data to the Blynk app, and triggers alerts when the dustbin is over 90% full. Ideal for smart city waste management. Easy integration with Wi-Fi and mobile dashboard.
+
+
 📦 Smart Dustbin with IoT (ESP32 + Blynk)
 A smart IoT-based dustbin system built using ESP32, Ultrasonic Sensor, and Blynk IoT platform that monitors real-time fill levels and alerts the user when the dustbin is nearly full.
 
 🚀 Features
+
 📡 Real-time Monitoring: Continuously measures dustbin fill level using an ultrasonic sensor.
 
 📲 IoT Integration (Blynk): Sends live data (distance & fill percentage) to Blynk mobile app dashboard.
