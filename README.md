@@ -44,9 +44,6 @@ Connect your ultrasonic sensor to the defined GPIO pins.
 Open Blynk app and create widgets:
 
 Gauge/Display on V0 for Fill Level
-<h3>Result</h1><img width="1330" height="612" alt="Screenshot 2024-10-18 143419" src="https://github.com/user-attachments/assets/a1c0c1b5-1ebe-44af-a39c-d12b73a636e6" />
-
-<img width="724" height="547" alt="Screenshot 2024-10-27 231450" src="https://github.com/user-attachments/assets/45b81623-d053-4bdd-b386-dd89da7194a8" />
 
 Display on V1 for Distance
 
